@@ -123,7 +123,7 @@ GT5 2.11 is prefered over 2.17 due to 2.12<->2.17 having no extra content, and m
   
 |          Name          | Completed |                                     Purpose                                      | 
 |------------------------|-----------|----------------------------------------------------------------------------------|
-| arcade                 |    ❌️    | Arcade mode and all of its sub-menus                                             |
+| arcade                 |    ✔️    | Arcade mode and all of its sub-menus                                             |
 | boot                   |    ✔️    | Bootup, new game setup, initial intro movie                                      |
 | cursor                 |    ✔️    | Sets up cursor and dialog boxes                                                  |
 | demo_movie             |    ✔️    | Intro when idle at main menu, and any movie that plays after completing event    |
@@ -131,10 +131,10 @@ GT5 2.11 is prefered over 2.17 due to 2.12<->2.17 having no extra content, and m
 | eyetoy                 |    ✔️    | Handles unlocking Nike Car when scanning GT Shirt with the Eyetoy accessory      |
 | gtmode                 |    ✔️    | Gran Turismo Mode and all of its sub-menus                                       |
 | labomode               |    ❌️    | Photo lab, Replay Theater, Load & Save Replay, Delete Replay/Film/Photo          |
-| language               |    ❌️    | Language selection screen at bootup                                              |
-| list_box               |    ❌️    |                                                                                  |
+| language               |    ✔️    | Language selection screen at bootup                                              |
+| list_box               |    ❌️    | Leftover from GT4P's Save/Delete Replay menu. Possibly an unused save icon customizer |
 | logger                 |    ❌️    | Replay Analyzer menu, accessed from various Pre-Race menus                       |
-| memcard                |    ❌️    | Likely GT4P leftover                                                             |
+| memcard                |    ✔️    | GT4P leftover                                                                    |
 | message                |    ❌️    | Online mode message menu                                                         |
 | network                |    ❌️    | Network Connection and Online mode login                                         |
 | online                 |    ❌️    | Online mode                                                                      |
