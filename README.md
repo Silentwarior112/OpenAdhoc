@@ -45,7 +45,7 @@ No progress has been made currently.
   <summary>GT4 Online (US)</summary>
 
 ### GT4 Online (US)
-Adhoc Version: 7<br>
+Adhoc Version: 7 (v5-7 compatible)<br>
 12 of 30 projects are completed and can be compiled.<br>
 There are 2 collections of shared scripts (share and quick-share) that multiple projects use.<br>
 There are 6 leftover projects from GT4P that are not relevant to completion
@@ -131,7 +131,7 @@ Adhoc Version: 7<br>
   <summary>GT HD</summary>
 
 ### GT HD
-  Adhoc Version: 8<br>
+  Adhoc Version: 10 (v8-10 compatible)<br>
   No progress has been made currently.
 </details>
 
