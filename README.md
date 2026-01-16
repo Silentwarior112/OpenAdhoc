@@ -733,11 +733,11 @@ There are 10 leftover projects from GT4P and retail GT4 that are not relevant.
 </details>
 
 <details>
-  <summary>[❌️] Tourist Trophy</summary>
+  <summary>[🚧] Tourist Trophy (>=5%)</summary>
 
 ### Tourist Trophy
 Adhoc Version: 7<br>
-  1 of 22 projects are completed and can be compiled.<br>
+  2 of 22 projects are completed and can be compiled.<br>
   There are 2 collections of shared scripts (share and quick-share) that multiple projects use.<br>
 
 |          Name          | Completed |                                     Purpose                                      | 
@@ -745,7 +745,7 @@ Adhoc Version: 7<br>
 | arcade                 |    ❌️    | Arcade mode and all of its sub-menus                                             |
 | bestshot               |    ❌️    | "Best Shot" photoshoot menu, accessed from pre-race menu during Photo Ride       |
 | boot                   |    ❌️    | Bootup, new game setup, initial intro movie                                      |
-| cursor                 |    ❌️    | Sets up cursor and dialog boxes                                                  |
+| cursor                 |    ✔️    | Sets up cursor and dialog boxes                                                  |
 | demo_movie             |    ❌️    | Intro when idle at main menu, and any movie that plays after completing event    |
 | labomode               |    ❌️    | Photo lab, Replay Theater, Load & Save Replay, Delete Replay/Film/Photo          |
 | option                 |    ❌️    | Game Options                                                                     |
