@@ -44,7 +44,7 @@ module PROJECT::ROOT
         setFadeActor(Dialog::Buttons::OK::bgf);
         setFadeActorRoot(ROOT);
 		setVibration(Dialog);
-		AdjustScaleImage(Dialog::Message::caution::bg, GetWideAdjustScale(), 1.0); // Dialog type, width modifier, height modifier
+		AdjustScaleImage(Dialog::Message::caution::bg, GetWideAdjustScale(), 1.0); // UI element, width modifier, height modifier. Dynamically corrects the ! symbol's aspect ratio during error dialogs
     }
 
     function open_motion(context, type)
@@ -298,4 +298,5 @@ module PROJECT::ROOT::Dialog::Buttons::YesNo::Yes
         close(context);
         return EVENTRESULT_FILTER;
     }
+
 }
