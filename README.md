@@ -661,7 +661,6 @@ No progress.
 ### GT4 Prologue
 Adhoc Version: 5<br>
 5 of 11 projects are completed and can be compiled.<br>
-No progress has been made currently.
   
 |          Name          | Completed |                                     Purpose                                      | 
 |------------------------|-----------|----------------------------------------------------------------------------------|
@@ -734,38 +733,37 @@ There are 10 leftover projects from GT4P and retail GT4 that are not relevant.
 </details>
 
 <details>
-  <summary>[❌️] Tourist Trophy</summary>
+  <summary>[🚧] Tourist Trophy (>=5%)</summary>
 
 ### Tourist Trophy
 Adhoc Version: 7<br>
-  There are 22 projects.<br>
+  2 of 22 projects are completed and can be compiled.<br>
   There are 2 collections of shared scripts (share and quick-share) that multiple projects use.<br>
-  No progress has been made currently.
 
 |          Name          | Completed |                                     Purpose                                      | 
 |------------------------|-----------|----------------------------------------------------------------------------------|
 | arcade                 |    ❌️    | Arcade mode and all of its sub-menus                                             |
-| bestshot               |    ❌️    |                                                                                  |
+| bestshot               |    ❌️    | "Best Shot" photoshoot menu, accessed from pre-race menu during Photo Ride       |
 | boot                   |    ❌️    | Bootup, new game setup, initial intro movie                                      |
-| cursor                 |    ❌️    | Sets up cursor and dialog boxes                                                  |
+| cursor                 |    ✔️    | Sets up cursor and dialog boxes                                                  |
 | demo_movie             |    ❌️    | Intro when idle at main menu, and any movie that plays after completing event    |
 | labomode               |    ❌️    | Photo lab, Replay Theater, Load & Save Replay, Delete Replay/Film/Photo          |
 | option                 |    ❌️    | Game Options                                                                     |
 | photo_save             |    ❌️    | Photo mode                                                                       |
-| print                  |    ❌️    |                                                                                  |
-| quick-arcade           |    ❌️    |                                                                                  |
-| quick-challenge        |    ❌️    |                                                                                  |
-| quick-championship     |    ❌️    |                                                                                  |
-| quick-event            |    ❌️    |                                                                                  |
-| quick-freerun          |    ❌️    |                                                                                  |
-| quick-license          |    ❌️    |                                                                                  |
-| quick-photo            |    ❌️    |                                                                                  |
-| quick-practice         |    ❌️    |                                                                                  |
-| quick-tt               |    ❌️    |                                                                                  |
+| print                  |    ❌️    | Print menu, accessed from Photo Lab                                              |
+| quick-arcade           |    ❌️    | Arcade mode 1-on-1 and Race Pre-Race menu                                        |
+| quick-challenge        |    ❌️    | Challenge mode pre-race menu                                                     |
+| quick-championship     |    ❌️    | TT Mode Championship Pre-Race menu                                               |
+| quick-event            |    ❌️    | TT Mode Single Race Pre-Race menu                                                |
+| quick-freerun          |    ❌️    | TT Mode Time Trial Pre-Race menu                                                 |
+| quick-license          |    ❌️    | TT Mode License test Pre-Race menu                                               |
+| quick-photo            |    ❌️    | TT Mode Photo Ride Pre-Race menu                                                 |
+| quick-practice         |    ❌️    | TT Mode Free Battle Pre-Race menu                                                |
+| quick-tt               |    ❌️    | Arcade Mode Time Trial Pre-Race menu                                             |
 | setting                |    ❌️    | Bike Setting menu and all of its sub-menus (Change parts and tuning sliders)     |
 | slide                  |    ❌️    | Slideshow mode                                                                   |
 | ttmode                 |    ❌️    | Tourist Trophy mode and all of its sub-menus                                     |
-| GT4Application         |    ❌️    | Initializer and Config Script loader / re-loader                                 |
+| GT4Application         |    ✔️    | Initializer and Config Script loader / re-loader                                 |
 </details>
 
 <details>

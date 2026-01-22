@@ -206,7 +206,7 @@ module PROJECT::ROOT
             item["chip"].setData(cg);
         }
 
-        for (; i < 10; ++i)
+        for (var i; i < 10; ++i)
             List::Cars[lineName_[i]].visible = false;
 
         Info::page.text = pages == 0 ? "" : context.translate(ROOT, "Page n of n").format(page_ + 1, pages);
